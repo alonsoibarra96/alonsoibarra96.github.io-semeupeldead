@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Rampart One', cursive;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+}
